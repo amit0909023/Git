@@ -7,8 +7,21 @@ html,body{
     height: 100%;
     width: 100%;
 }
-#box{
-    height: 100px;
-    width: 100px;
+
+h1{
     background-color: aqua;
+    border:1px solid black;
+    color:brown;
+    
+}
+h2{
+    background-color: beige;
+    border:1px solid black;
+    color:blueviolet;
+
+}
+h3{
+    background-color: pink;
+    border:1px solid black;
+    color:cornflowerblue;
 }
